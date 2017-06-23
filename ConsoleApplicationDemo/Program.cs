@@ -79,7 +79,7 @@ namespace ConsoleApplicationDemo
 
             Console.WriteLine ( idname.Name + ": " + idname.GetValue(classInstance,null)) ;
 
-
+            Console.WriteLine("\nTesting\n");
 
             //Database part
 
