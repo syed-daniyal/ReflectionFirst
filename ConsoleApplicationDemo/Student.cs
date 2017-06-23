@@ -14,7 +14,7 @@ namespace ConsoleApplicationDemo
         public string country { get; set; }
 
         public Student() {
-            id = 1;
+            id = 2;
             username = "Daniyal";
             password = "fds";
             email = "fsdf";
