@@ -1,0 +1,9 @@
+c:\users\syed.daniyal\documents\visual studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\bin\Debug\ConsoleApplicationDemo.exe
+c:\users\syed.daniyal\documents\visual studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\bin\Debug\ConsoleApplicationDemo.pdb
+c:\users\syed.daniyal\documents\visual studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\obj\x86\Debug\ConsoleApplicationDemo.exe
+c:\users\syed.daniyal\documents\visual studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\obj\x86\Debug\ConsoleApplicationDemo.pdb
+C:\Users\syed.daniyal\Documents\Visual Studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\bin\Debug\ConsoleApplicationDemo.exe.config
+C:\Users\syed.daniyal\Documents\Visual Studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\bin\Debug\EntityFramework.dll
+C:\Users\syed.daniyal\Documents\Visual Studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\syed.daniyal\Documents\Visual Studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\bin\Debug\EntityFramework.xml
+C:\Users\syed.daniyal\Documents\Visual Studio 2010\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo\bin\Debug\EntityFramework.SqlServer.xml
