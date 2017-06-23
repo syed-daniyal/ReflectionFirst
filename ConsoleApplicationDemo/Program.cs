@@ -79,7 +79,8 @@ namespace ConsoleApplicationDemo
 
             Console.WriteLine ( idname.Name + ": " + idname.GetValue(classInstance,null)) ;
 
-            Console.WriteLine("\nConflict\n");
+            Console.WriteLine("\nNew Changes and Conflict\n");
+            Console.WriteLine("\nChanges and Conflict\n");
 
             //Database part
 
